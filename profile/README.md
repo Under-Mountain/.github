@@ -1,4 +1,5 @@
 ## Hi there 👋
+We are Under Mountain Group, a conglomerate in Arda that provides various services across the world. We will be the only connection to outside world and is how we protect all the user generated data of Arda.
 
 <!--
 

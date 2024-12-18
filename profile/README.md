@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are Under Mountain Group, a conglomerate in Arda that provides various services across the world. We will be the only connection to outside world and is how we protect all the user generated data of Arda.
+We are Under Mountain Group, a conglomerate in Arda universe that provides various services across the world. We will be the only connection to outside world from Arda and is how we protect all the user minted contents in Arda universe.
 
 Project Arda builds a Web 3.0 socioeconomic system of this world that will be tokenized and be tradable in cryptocurrency exchange one day.
 

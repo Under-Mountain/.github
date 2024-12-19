@@ -3,9 +3,9 @@ We are Under Mountain Group, a conglomerate in Arda universe that provides vario
 
 Project Arda builds a Web 3.0 socioeconomic system of this world that will be tokenized and be tradable in cryptocurrency exchange one day.
 
-Silma Credit (Silma, sl, SLM)
+Silma Money (Silma, sl, SLM)
 =
-- Issued by Bank of Under Mountain
+- Monetary credit issued by Bank of Under Mountain
 - Primary currency in World of Arda
 
 Bank of Under Mountain
